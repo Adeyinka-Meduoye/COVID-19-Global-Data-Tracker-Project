@@ -1,6 +1,3 @@
-Here’s a **ready-to-use `README.md`** for your repo. You can copy it directly into your project root.
-
-````markdown
 # COVID-19 Global Data Tracker
 
 A data analysis project that tracks global COVID-19 trends (cases, deaths, recoveries, and vaccinations) across countries and time.  
